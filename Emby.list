@@ -1,0 +1,114 @@
+# 心动 Emby自用分流集
+
+# > Orange🍊
+DOMAIN-SUFFIX,cf.otv.icu
+
+# > peach🍑
+DOMAIN-SUFFIX,embymv.tk
+
+# > MisakaF
+DOMAIN-SUFFIX,emby.misakaf.org
+DOMAIN-SUFFIX,cdn.misakaf.org
+
+# > TeCar 特卡
+DOMAIN-SUFFIX,emby.carlos.trade
+DOMAIN-SUFFIX,cf.carlos.trade
+
+# > 纸片人
+DOMAIN-SUFFIX,embyplus.org
+
+# > PiliPili
+DOMAIN-SUFFIX,emby.pilipiliultra.top
+DOMAIN-SUFFIX,emby.pilipiliultra.com
+
+# > CC
+DOMAIN-SUFFIX,cc.ccemby.tk
+
+# > nyamedia
+DOMAIN-SUFFIX,emby.bangumi.ca
+
+# > 垃圾影音
+DOMAIN-SUFFIX,cf.xmsl.org
+DOMAIN-SUFFIX,free.xmsl.org
+
+# > 垃圾影音二服 宝哥黑科技
+DOMAIN-SUFFIX,cf.gtlx.org
+
+# > des's Emby
+DOMAIN-SUFFIX,38.147.170.103
+
+# > dv
+DOMAIN-SUFFIX,emby.lzlz.eu.org
+DOMAIN-SUFFIX,emby.lzlz.cc
+
+# > GuGu
+DOMAIN-SUFFIX,front.gugumedia.link
+DOMAIN-SUFFIX,main.gugumedia.link
+DOMAIN-SUFFIX,pro.gugumedia.link
+
+# > 卷毛鼠公益服
+DOMAIN-SUFFIX,cf.jmsooo.com
+
+# > 不给看
+DOMAIN-SUFFIX,c.emby.pro
+DOMAIN-SUFFIX,zwei.bgka.me
+
+# > 终点站
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
+
+# > 放映厅
+DOMAIN-SUFFIX,emby.9191001.xyz
+
+# > TreeDiagram 树状图
+DOMAIN-SUFFIX,789.123456.al
+
+# > Magic Cloud 魔法
+DOMAIN-SUFFIX,emby.freetz.top
+
+# > NIRVANA 涅槃
+DOMAIN-SUFFIX,emby.lucasmedia.top
+
+# > 水泊梁山
+DOMAIN-SUFFIX,cf.shuipo.lol
+
+# > Mjj-Emby
+DOMAIN-SUFFIX,cf.mjjemby.org
+
+# > 佛系EMBY
+DOMAIN-SUFFIX,1.4545.cf
+
+# > paul_电报服
+DOMAIN-SUFFIX,emby.imetyou.top
+DOMAIN-SUFFIX,cf.imetyou.top
+
+# > NMEmby
+DOMAIN-SUFFIX,film.ohhhh.org
+
+# > hxd_emby
+DOMAIN-SUFFIX,bili.bili.rip
+DOMAIN-SUFFIX,kr.bili.rip
+
+# > 叔服
+DOMAIN-SUFFIX,jz.mcjoker.xyz
+DOMAIN-SUFFIX,emby3.mcjoker.xyz
+
+# > Temby
+DOMAIN-SUFFIX,temby.285286.xyz
+
+# > 田小瑞
+DOMAIN-SUFFIX,us.zerodisk.site
+
+# > Marmot_Emby
+DOMAIN-SUFFIX,marmot.20120714.xyz
+DOMAIN-SUFFIX,v.20120714.xyz
+
+# > Emby Hub
+DOMAIN-SUFFIX,emby.ednovas.org
+
+# > SYN Streaming
+DOMAIN-SUFFIX,ntrrr.am.sb
+
+# > Lend Emby
+DOMAIN-SUFFIX,emby.lcloud.wiki
