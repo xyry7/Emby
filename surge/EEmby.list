@@ -1,0 +1,33 @@
+# 心动 Emby自用分流集
+
+# > 纸片人
+DOMAIN-SUFFIX,embyplus.org
+
+# > PiliPili
+DOMAIN-SUFFIX,emby.pilipiliultra.top
+DOMAIN-SUFFIX,emby.pilipiliultra.com
+DOMAIN-SUFFIX,pilipili.mikuu.link
+
+# > CC
+DOMAIN-SUFFIX,cc.ccemby.tk
+
+# > 垃圾影音
+DOMAIN-SUFFIX,cf.xmsl.org
+DOMAIN-SUFFIX,free.xmsl.org
+
+# > 垃圾影音二服 宝哥黑科技
+DOMAIN-SUFFIX,cf.gtlx.org
+
+# > 不给看
+DOMAIN-SUFFIX,c.emby.pro
+DOMAIN-SUFFIX,zwei.bgka.me
+DOMAIN-SUFFIX,s2.bgka.me
+
+# > Marmot_Emby 土拨鼠
+DOMAIN-SUFFIX,marmot.20120714.xyz
+DOMAIN-SUFFIX,v.20120714.xyz
+
+# > 叔服
+DOMAIN-SUFFIX,jz.mcjoker.xyz
+DOMAIN-SUFFIX,emby3.mcjoker.xyz
+
