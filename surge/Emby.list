@@ -88,7 +88,9 @@ DOMAIN-SUFFIX,film.ohhhh.org
 
 # > hxd_emby
 DOMAIN-SUFFIX,bili.bili.rip
+DOMAIN-SUFFIX,cf.bili.rip
 DOMAIN-SUFFIX,kr.bili.rip
+
 
 # > 叔服
 DOMAIN-SUFFIX,jz.mcjoker.xyz
