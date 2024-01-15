@@ -70,9 +70,6 @@ DOMAIN-SUFFIX,789.123456.al
 # > Magic Cloud 魔法
 DOMAIN-SUFFIX,emby.freetz.top
 
-# > NIRVANA 涅槃
-DOMAIN-SUFFIX,emby.lucasmedia.top
-
 # > 水泊梁山
 DOMAIN-SUFFIX,cf.shuipo.lol
 
@@ -94,7 +91,6 @@ DOMAIN-SUFFIX,4837.bili.rip
 DOMAIN-SUFFIX,cf.bili.rip
 DOMAIN-SUFFIX,kr.bili.rip
 
-
 # > 叔服
 DOMAIN-SUFFIX,jz.mcjoker.xyz
 DOMAIN-SUFFIX,emby3.mcjoker.xyz
@@ -111,9 +107,3 @@ DOMAIN-SUFFIX,v.20120714.xyz
 
 # > Emby Hub
 DOMAIN-SUFFIX,emby.ednovas.org
-
-# > SYN Streaming
-DOMAIN-SUFFIX,ntrrr.am.sb
-
-# > Lend Emby
-DOMAIN-SUFFIX,emby.lcloud.wiki
