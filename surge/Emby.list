@@ -24,6 +24,9 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,emby.pilipiliultra.top
 DOMAIN-SUFFIX,pilipiliultra.com
 
+# > Misty
+DOMAIN-SUFFIX,misty.cx
+
 # > CC
 DOMAIN-SUFFIX,cc.ccemby.tk
 
@@ -69,9 +72,6 @@ DOMAIN-SUFFIX,789.123456.al
 
 # > Magic Cloud 魔法
 DOMAIN-SUFFIX,emby.freetz.top
-
-# > 水泊梁山
-DOMAIN-SUFFIX,cf.shuipo.lol
 
 # > Mjj-Emby
 DOMAIN-SUFFIX,cf.mjjemby.org
