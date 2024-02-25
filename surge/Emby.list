@@ -106,7 +106,8 @@ DOMAIN-SUFFIX,marmot.20120714.xyz
 DOMAIN-SUFFIX,v.20120714.xyz
 
 # > Lyrebird-琴鸟
-DOMAIN-SUFFIX,167.235.116.53
+DOMAIN-SUFFIX,direct.lyrebirdemby.com
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com
 
 # > Emby
 DOMAIN-SUFFIX,emby.aca.best
