@@ -123,3 +123,8 @@ DOMAIN-SUFFIX,flarex.starcat.eu.org
 
 # > CherryTV🍒
 DOMAIN-SUFFIX,cherrytv.one
+
+# > JELLYFIN-VIP3
+DOMAIN-SUFFIX,emby.eggtartcloud.shop
+DOMAIN-SUFFIX,vip3.jellyfin.asia
+
