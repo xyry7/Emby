@@ -42,7 +42,8 @@ DOMAIN-SUFFIX,free.xmsl.org
 DOMAIN-SUFFIX,cf.gtlx.org
 
 # > des's Emby
-DOMAIN-SUFFIX,38.147.170.103
+DOMAIN-SUFFIX,146.56.36.1
+DOMAIN-SUFFIX,193.123.67.207
 
 # > dv
 DOMAIN-SUFFIX,emby.lzlz.eu.org
@@ -136,6 +137,9 @@ DOMAIN-SUFFIX,emby.slove.info
 
 # > EMBY - xD
 DOMAIN-SUFFIX,dx.doooong.top
+
+# > 野兽餐厅
+DOMAIN-SUFFIX,emby-us-v4.mius.uk
 
 # > 探花TV
 DOMAIN-SUFFIX,chenxingyu.site
