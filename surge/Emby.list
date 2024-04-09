@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,emby.lzlz.cc
 DOMAIN-SUFFIX,front.gugumedia.link
 DOMAIN-SUFFIX,main.gugumedia.link
 DOMAIN-SUFFIX,pro.gugumedia.link
+DOMAIN-SUFFIX,main.gugu.media
 
 # > 卷毛鼠公益服
 DOMAIN-SUFFIX,cf.jmsooo.com
@@ -132,7 +133,7 @@ DOMAIN-SUFFIX,emby.apopcloud.com
 DOMAIN-SUFFIX,emby.eggtartcloud.shop
 DOMAIN-SUFFIX,vip3.jellyfin.asia
 
-# > 观影欢乐园
+# > 观影欢乐园 私服
 DOMAIN-SUFFIX,emby.slove.info
 
 # > EMBY - xD
