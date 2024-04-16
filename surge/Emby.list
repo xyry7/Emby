@@ -50,10 +50,9 @@ DOMAIN-SUFFIX,emby.lzlz.eu.org
 DOMAIN-SUFFIX,emby.lzlz.cc
 
 # > GuGu
-DOMAIN-SUFFIX,front.gugumedia.link
-DOMAIN-SUFFIX,main.gugumedia.link
-DOMAIN-SUFFIX,pro.gugumedia.link
 DOMAIN-SUFFIX,main.gugu.media
+DOMAIN-SUFFIX,pro.gugu.media
+DOMAIN-SUFFIX,v6.gugu.media
 
 # > 卷毛鼠公益服
 DOMAIN-SUFFIX,cf.jmsooo.com
