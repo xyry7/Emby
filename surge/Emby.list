@@ -124,19 +124,8 @@ DOMAIN-SUFFIX,flare.catlinks.co.uk
 # > CherryTV🍒
 DOMAIN-SUFFIX,cherrytv.one
 
-# > Apop
-DOMAIN-SUFFIX,api.apopcloud.me
-DOMAIN-SUFFIX,emby.apopcloud.com
-
-# > JELLYFIN-VIP3
-DOMAIN-SUFFIX,emby.eggtartcloud.shop
-DOMAIN-SUFFIX,vip3.jellyfin.asia
-
 # > 观影欢乐园 私服
 DOMAIN-SUFFIX,emby.slove.info
-
-# > EMBY - xD
-DOMAIN-SUFFIX,dx.doooong.top
 
 # > 野兽餐厅
 DOMAIN-SUFFIX,emby-us-v4.mius.uk
@@ -144,20 +133,8 @@ DOMAIN-SUFFIX,emby-us-v4.mius.uk
 # > 探花TV
 DOMAIN-SUFFIX,chenxingyu.site
 
-# > 白浪兔
-DOMAIN-SUFFIX,emby.airpor.top
-
 # > 江湖
 DOMAIN-SUFFIX,film.reddust.link
-
-# > store.media-2u.uk 外国Emby
-DOMAIN-SUFFIX,158.101.207.134
-
-# > 搬运工 私服
-DOMAIN-SUFFIX,byg.955557.xyz
-
-# > ccのemby 私服
-DOMAIN-SUFFIX,emby.i1cc.tech
 
 # > Heisi
 DOMAIN-SUFFIX,i109.com
