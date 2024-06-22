@@ -50,8 +50,7 @@ DOMAIN-SUFFIX,emby.lzlz.eu.org
 DOMAIN-SUFFIX,emby.lzlz.cc
 
 # > GuGu
-DOMAIN-SUFFIX,main.gugu.media
-DOMAIN-SUFFIX,pro.gugu.media
+DOMAIN-SUFFIX,main.gugumedia.site
 DOMAIN-SUFFIX,v6.gugu.media
 
 # > 卷毛鼠公益服
@@ -138,3 +137,6 @@ DOMAIN-SUFFIX,film.reddust.link
 
 # > Heisi
 DOMAIN-SUFFIX,i109.com
+
+# > CbCb
+DOMAIN-SUFFIX,emby.cbcb.lol
