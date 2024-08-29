@@ -1,8 +1,8 @@
 # 系统更新
-host, appstoreconnect.apple.com, 系统更新
-host, iosapps-ssl.itunes.apple.com, 系统更新
-host, itcmobile.itunes.apple.com, 系统更新
-host, mesu.apple.com, 系统更新
-host, gdmf.apple.com, 系统更新
-host, updates-http.cdn-apple.com, 系统更新
-host, xp.apple.com, 系统更新
+DOMAIN, appstoreconnect.apple.com, 系统更新
+DOMAIN, iosapps-ssl.itunes.apple.com, 系统更新
+DOMAIN, itcmobile.itunes.apple.com, 系统更新
+DOMAIN, mesu.apple.com, 系统更新
+DOMAIN, gdmf.apple.com, 系统更新
+DOMAIN, updates-http.cdn-apple.com, 系统更新
+DOMAIN, xp.apple.com, 系统更新
