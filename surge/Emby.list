@@ -1,5 +1,31 @@
 # 心动 Emby自用分流集
 
+# > 纸片人
+DOMAIN-SUFFIX,embyplus.org
+
+# > PiliPili
+DOMAIN-SUFFIX,pilipili.club
+DOMAIN-SUFFIX,css.pilipili.club
+
+# > 终点站
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub1.term.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub2.term.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,pub3.term.wtf
+
+# > GuGu
+DOMAIN-SUFFIX,main.gugumedia.site
+DOMAIN-SUFFIX,v6.gugu.media
+
+# > 卷毛鼠公益服
+DOMAIN-SUFFIX,cf.jmsooo.com
+
+# > 不给看
+DOMAIN-SUFFIX,c.emby.pro
+DOMAIN-SUFFIX,zwei.bgka.me
+
 # > PandaTV 🐼
 DOMAIN-SUFFIX,pdatv.cc
 
@@ -17,13 +43,6 @@ DOMAIN-SUFFIX,cdn.misakaf.org
 DOMAIN-SUFFIX,emby.carlos.trade
 DOMAIN-SUFFIX,sg.carlos.trade
 DOMAIN-SUFFIX,cf.carlos.trade
-
-# > 纸片人
-DOMAIN-SUFFIX,embyplus.org
-
-# > PiliPili
-DOMAIN-SUFFIX,pilipili.club
-DOMAIN-SUFFIX,css.pilipili.club
 
 # > Misty
 DOMAIN-SUFFIX,misty.cx
@@ -50,22 +69,6 @@ DOMAIN-SUFFIX,193.123.67.207
 # > dv
 DOMAIN-SUFFIX,emby.lzlz.eu.org
 DOMAIN-SUFFIX,emby.lzlz.cc
-
-# > GuGu
-DOMAIN-SUFFIX,main.gugumedia.site
-DOMAIN-SUFFIX,v6.gugu.media
-
-# > 卷毛鼠公益服
-DOMAIN-SUFFIX,cf.jmsooo.com
-
-# > 不给看
-DOMAIN-SUFFIX,c.emby.pro
-DOMAIN-SUFFIX,zwei.bgka.me
-
-# > 终点站
-DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub2.emby.wtf
-DOMAIN-SUFFIX,pub3.emby.wtf
 
 # > 放映厅
 DOMAIN-SUFFIX,emby.9191001.xyz
