@@ -63,8 +63,7 @@ DOMAIN-SUFFIX,free.xmsl.org
 DOMAIN-SUFFIX,cf.gtlx.org
 
 # > des's Emby
-IP-CIDR,146.56.36.1
-IP-CIDR,193.123.67.207
+IP-CIDR,146.56.36.1/32
 
 # > dv
 DOMAIN-SUFFIX,emby.lzlz.eu.org
@@ -149,7 +148,7 @@ DOMAIN-SUFFIX,i109.com
 DOMAIN-SUFFIX,emby.cbcb.lol
 
 # > Infinityfly
-IP-CIDR,140.83.59.29
+IP-CIDR,140.83.59.29/32
 
 #> ChilledWatermelon🍉
 DOMAIN-SUFFIX,emby.1024.name
