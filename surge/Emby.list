@@ -150,5 +150,8 @@ DOMAIN-SUFFIX,emby.cbcb.lol
 # > Infinityfly
 IP-CIDR,140.83.59.29/32
 
-#> ChilledWatermelon🍉
+# > ChilledWatermelon🍉
 DOMAIN-SUFFIX,emby.1024.name
+
+# > 天南小筑
+DOMAIN-SUFFIX,nanflix.net
